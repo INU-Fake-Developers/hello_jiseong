@@ -7,4 +7,5 @@
 2. 굿굿
 <details>
 <summary>자세히보기 / 간단히보기</summary>
+  안녕하세요
 <div markdown="1">
